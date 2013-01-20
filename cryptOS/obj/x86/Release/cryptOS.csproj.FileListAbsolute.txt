@@ -1,0 +1,9 @@
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\bin\Release\cryptOS.exe
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\bin\Release\cryptOS.pdb
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\ResolveAssemblyReference.cache
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\cryptOS.mainForm.resources
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\cryptOS.Properties.Resources.resources
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\GenerateResource.read.1.tlog
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\GenerateResource.write.1.tlog
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\cryptOS.exe
+D:\faks\Diplomski\OS2\cryptOS\cryptOS\obj\x86\Release\cryptOS.pdb
